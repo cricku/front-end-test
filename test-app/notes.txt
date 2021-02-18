@@ -1,0 +1,42 @@
+1) Brief instructions on how to run your code
+
+Inside test-app folder run:
+
+npm install
+
+to install project dependencies.
+
+After the dependencies are installed you just run:
+
+npm run serve
+
+to run the project locally.
+
+You can also run: 
+
+npm run test:unit
+
+to run the unit tests locally.
+
+I also submited my project here on Github pages:
+
+http://cricku.github.io/test-app
+
+The notes.txt is located in test-app folder.
+
+2) Any notes we should bear in mind (e.g. why you made an unusual choice)
+
+
+3) A brief note on what you found hardest about the challenge
+I can't say there were challanges
+
+4) A brief note on how you could improve your code further
+I will:
+- add a Vue component framewrok/ CSS framework to speed development process
+- try to create more atomic 
+
+4) Any feedback to us on how to improve either the challenge itself or the recruitment process so far
+As an observation when someone forks the original repo on they're 
+account everyone can "spy" on their work.
+I think that in one wireframe (Desktop Design Rules.png) the container width for the 
+form doesn't have the corect size.
