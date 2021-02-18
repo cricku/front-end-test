@@ -1,7 +1,7 @@
 .DS_Store
 node_modules
 /test-app/dist
-deploy.sh
+/test-app/deploy.sh
 
 
 # local env files

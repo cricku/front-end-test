@@ -1,26 +1,16 @@
 1) Brief instructions on how to run your code
 
 Inside test-app folder run:
-
 npm install
-
 to install project dependencies.
 
 After the dependencies are installed you just run:
-
 npm run serve
-
 to run the project locally.
-
-You can also run: 
-
-npm run test:unit
-
-to run the unit tests locally.
 
 I also submited my project here on Github pages:
 
-http://cricku.github.io/test-app
+https://cricku.github.io/front-end-test/
 
 The notes.txt is located in test-app folder.
 
